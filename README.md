@@ -1,2 +1,4 @@
 # Numerical-Analysis-of-Orbital-Chaos
-Numerical Analysis of Orbital Chaos: Simulating the Restricted Three Body Problem by Kaustav Pramanik and Soumili Ghosh
+Numerical Analysis of Orbital Chaos: Simulating the Restricted Three Body Problem 
+by Kaustav Pramanik and Soumili Ghosh
+# For simulation try animation_final.py file
