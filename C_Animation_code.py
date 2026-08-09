@@ -1,5 +1,5 @@
-from cr3bp_code_final import simulation
-from Lagrange_point_final import main
+from B_CR3BP_code import simulation
+from A_Lagrange_point import main
 import pygame
 
 mu = 0.0121545352
