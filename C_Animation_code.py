@@ -51,7 +51,7 @@ while run:
     pygame.draw.circle(window, (192,192,192), (moon_x,moon_y), 5)
     
     if current_frame < len(math[0]) - 1:
-        current_frame += 10
+        current_frame += 5
     if current_frame > 1:
         point = []
         for i in range(current_frame):
