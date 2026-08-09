@@ -16,16 +16,17 @@ Using Python, this project mathematically models the trajectory of a massless th
 * **Real-time Animation:** Utilizes Pygame to render the orbital dynamics dynamically.
 
 ## Repository Structure
-* `01_Lagrange_point.py` - Contains script to run and find the initial lagrange point for the simulations.
-* `02-CR3BP_code.py` - Contains the custom ODE formulations, mathematical solvers and execution script to run the simulations.
-* `03_Animation_code.py` - Handles the generation of Pygame animations.
+* `A_Lagrange_point.py` - Contains script to run and find the initial lagrange point for the simulations.
+* `B_CR3BP_code.py` - Contains the custom ODE formulations, mathematical solvers and execution script to run the simulations.
+* `C_Animation_code.py` - Handles the generation of Pygame animations.
 * `/Output/` - Contains phase-space plots, Poincaré sections, and video animations.
 
 ## Installation & Usage
 1. Clone this repository to your local machine.
 2. Install the required scientific libraries using the provided requirements file:
    `pip install -r requirements.txt`
-3. Execute `03_Animation_code.py` to initiate the simulation and generate the plots.
-
+3. Execute `C_Animation_code.py` to initiate the simulation.
+4. Execute `B_CR3BP_code.py` to generate the plots.
+   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
