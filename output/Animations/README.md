@@ -15,7 +15,7 @@ The animations in this repository were generated using Pygame to visualize the r
 * **Conclusion:** This visualizes the localized stability regions within the CR3BP. It proves that despite the system lacking a general analytical solution, natural accumulation zones exist where celestial objects (like Trojan asteroids) can remain indefinitely trapped by the competing gravitational forces.
 
 ### 3. Quasi-Periodic Bounded Orbit (Deep Primary Well)
-* **File:** `point_(0.4920000000000000 ,-0.0128571428571429)_zero_velocity .mp4`
+* **File:** `point_(0.4920000000000000 ,-0.0128571428571429)_zero_velocity.mp4`
 * **Initial Setup:** Initialized deep within the gravitational well of the primary mass at X = 0.492, Y = -0.012857 with zero initial velocity (Vx = 0, Vy = 0) in the rotating frame.
 * **Observed Dynamics:** The third body executes a highly structured, dense, rosette-like orbital pattern. It remains tightly bound to the central primary mass without ever crossing over to the secondary mass.
 * **Conclusion:** This demonstrates that when a body is deep within the primary's Roche lobe with low energy, the gravitational pull of the secondary body acts merely as a slight perturbation. Instead of inducing chaos, this perturbation causes the orbit to precess smoothly, resulting in stable, quasi-periodic motion.
